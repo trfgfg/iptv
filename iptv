@@ -1,1302 +1,368 @@
 #EXTM3U
-#EXTINF:-1,DE: Sky Bundesliga 2 HD (Match Time)
-http://cs22cs.uk:8000/katka/katka/20814
-#EXTINF:-1,DE:RTL 2
-http://cs22cs.uk:8000/katka/katka/20825
-#EXTINF:-1,DE:RTL Crime
-http://cs22cs.uk:8000/katka/katka/20824
-#EXTINF:-1,DE:Sky Atlantic HD
-http://cs22cs.uk:8000/katka/katka/20817
-#EXTINF:-1,DE:SKY BUNDESLIGA 1 HD
-http://cs22cs.uk:8000/katka/katka/20815
-#EXTINF:-1,DE:VOX
-http://cs22cs.uk:8000/katka/katka/20783
-#EXTINF:-1,DE:ZDF
-http://cs22cs.uk:8000/katka/katka/20782
-#EXTINF:-1,DE:SKY SPORT 1
-http://cs22cs.uk:8000/katka/katka/22254
-#EXTINF:-1,DE: SKY SPORT 2
-http://cs22cs.uk:8000/katka/katka/22253
-#EXTINF:-1,DE_SKY_SPORT_AUSTRIA
-http://cs22cs.uk:8000/katka/katka/22252
-#EXTINF:-1,DE:13TH_Street_HD
-http://cs22cs.uk:8000/katka/katka/23457
-#EXTINF:-1,DE:ARD das Erste 1 HD
-http://cs22cs.uk:8000/katka/katka/23458
-#EXTINF:-1,DE:ARTE_HD
-http://cs22cs.uk:8000/katka/katka/23459
-#EXTINF:-1,DE:DISCOVERY_HD
-http://cs22cs.uk:8000/katka/katka/23460
-#EXTINF:-1,DE:DISNEY_JUNIOR_HD
-http://cs22cs.uk:8000/katka/katka/23496
-#EXTINF:-1,DE:Dmax_HD
-http://cs22cs.uk:8000/katka/katka/23463
-#EXTINF:-1,DE:Fox HD
-http://cs22cs.uk:8000/katka/katka/23465
-#EXTINF:-1,DE:KABEL_1
-http://cs22cs.uk:8000/katka/katka/23466
-#EXTINF:-1,DE:Kika_HD
-http://cs22cs.uk:8000/katka/katka/23467
-#EXTINF:-1,DE:NATIONAL_GEOGRAPHIC_HD
-http://cs22cs.uk:8000/katka/katka/23468
-#EXTINF:-1,DE:ORF_2_HD
-http://cs22cs.uk:8000/katka/katka/23469
-#EXTINF:-1,DE:RTL_CRIME
-http://cs22cs.uk:8000/katka/katka/23471
-#EXTINF:-1,DE:RTL HD
-http://cs22cs.uk:8000/katka/katka/23472
-#EXTINF:-1,DE:RTL_LIVING
-http://cs22cs.uk:8000/katka/katka/23473
-#EXTINF:-1,DE:RTL_PASSION_HD
-http://cs22cs.uk:8000/katka/katka/23474
-#EXTINF:-1,DE:SAT_1
-http://cs22cs.uk:8000/katka/katka/23475
-#EXTINF:-1,DE:Sixx_HD
-http://cs22cs.uk:8000/katka/katka/23476
-#EXTINF:-1,DE:SKY_ACTION_HD
-http://cs22cs.uk:8000/katka/katka/23477
-#EXTINF:-1,DE:SKY_ATLANTIC_HD
-http://cs22cs.uk:8000/katka/katka/23478
-#EXTINF:-1,DE:SKY_BUNDESLIGA_HD_2(ONLY_ON_MATCHDAY)
-http://cs22cs.uk:8000/katka/katka/23479
-#EXTINF:-1,DE:SKY_CINEMA_24_HD
-http://cs22cs.uk:8000/katka/katka/23480
-#EXTINF:-1,DE:SKY_CINEMA_EMOTION_HD
-http://cs22cs.uk:8000/katka/katka/23482
-#EXTINF:-1,DE:SKY_CINEMA_FAMILY_HD
-http://cs22cs.uk:8000/katka/katka/23481
-#EXTINF:-1,DE:SKY_CINEMA_HD
-http://cs22cs.uk:8000/katka/katka/23483
-#EXTINF:-1,DE:SKY_CINEMA_HITS_HD
-http://cs22cs.uk:8000/katka/katka/23484
-#EXTINF:-1,DE:SKY CINEMA NOSTALGIE HD
-http://cs22cs.uk:8000/katka/katka/23486
-#EXTINF:-1,DE:SKY_DISNEY_CINEMAGIC_HD
-http://cs22cs.uk:8000/katka/katka/23462
-#EXTINF:-1,DE:SKY_KRIMI_HD
-http://cs22cs.uk:8000/katka/katka/23485
-#EXTINF:-1,DE:SKY_SELECT_HD1
-http://cs22cs.uk:8000/katka/katka/23487
-#EXTINF:-1,DE:SKY_SELECT_HD4
-http://cs22cs.uk:8000/katka/katka/23488
-#EXTINF:-1,DE:SKY_SPORT_1HD
-http://cs22cs.uk:8000/katka/katka/23490
-#EXTINF:-1,DE:SKY_SPORT_2HD
-http://cs22cs.uk:8000/katka/katka/23491
-#EXTINF:-1,DE:SKY_SPORT_NEWS_HD
-http://cs22cs.uk:8000/katka/katka/23489
-#EXTINF:-1,DE:SRF_2HD
-http://cs22cs.uk:8000/katka/katka/23492
-#EXTINF:-1,DE:Syfy HD
-http://cs22cs.uk:8000/katka/katka/23493
-#EXTINF:-1,DE:TNT_FILM
-http://cs22cs.uk:8000/katka/katka/23494
-#EXTINF:-1,DE:ZDF_info_HD
-http://cs22cs.uk:8000/katka/katka/23461
-#EXTINF:-1,DE:ZDF_NEO_HD
-http://cs22cs.uk:8000/katka/katka/23470
-#EXTINF:-1,SK:TA3 - news
-http://cs22cs.uk:8000/katka/katka/29522
-#EXTINF:-1,SK:STV1 Jednotka HD
-http://cs22cs.uk:8000/katka/katka/28960
-#EXTINF:-1,SK:STV2 Dvojka HD
-http://cs22cs.uk:8000/katka/katka/28959
-#EXTINF:-1,SK:Markiza
-http://cs22cs.uk:8000/katka/katka/28876
-#EXTINF:-1,SK:TV JOJ HD CZ/SK
-http://cs22cs.uk:8000/katka/katka/28264
-#EXTINF:-1,SK:JOJ Plus CZ/SK
-http://cs22cs.uk:8000/katka/katka/28262
-#EXTINF:-1,Sk:Srnky
-http://cs22cs.uk:8000/katka/katka/28884
-#EXTINF:-1,SK:Tatranska Lomnica
-rtmp://stream.tmr.sk:1935/tmr/STREAM33.stream.flv
-#EXTINF:-1,SK:Jasna - Srdiecko
-http://stream.tmr.sk:1935/tmr//STREAM26.stream/playlist.m3u8
-#EXTINF:-1,SK:Donovaly Funpark
-rtmp://parksnow.zivekamery.sk:1935/donovaly/FUNPARK.stream.flv
-#EXTINF:-1,SK:Tatry-Chopok Zapad 2024m n. m.
-http://stream.tmr.sk:1935/tmr/STREAM7.stream/playlist.m3u8
-#EXTINF:-1,SK:JOJ Family
-http://cs22cs.uk:8000/katka/katka/28837
-#EXTINF:-1,CZ:Nova HD
-http://cs22cs.uk:8000/katka/katka/29080
-#EXTINF:-1,CZ:Nova 2 HD
-http://cs22cs.uk:8000/katka/katka/28961
-#EXTINF:-1,CZ:Nova Cinema HD
-http://cs22cs.uk:8000/katka/katka/28985
-#EXTINF:-1,CZ:Nova Sport 1
-http://cs22cs.uk:8000/katka/katka/29500
-#EXTINF:-1,CZ:Nova Sport 2 HD
-http://cs22cs.uk:8000/katka/katka/28972
-#EXTINF:-1,CZ:CT 4 Sport
-http://cs22cs.uk:8000/katka/katka/29523
-#EXTINF:-1,CZ:Nova GOLD
-http://cs22cs.uk:8000/katka/katka/28981
-#EXTINF:-1,CZ:Prima Zoom
-http://cs22cs.uk:8000/katka/katka/29524
-#EXTINF:-1,CZ:Prima Love HD
-http://cs22cs.uk:8000/katka/katka/29501
-#EXTINF:-1,CZ:Prima MAX
-http://cs22cs.uk:8000/katka/katka/28814
-#EXTINF:-1,CZ:Cinemax
-http://cs22cs.uk:8000/katka/katka/29091
-#EXTINF:-1,CZ:Film+
-http://cs22cs.uk:8000/katka/katka/29088
-#EXTINF:-1,CZ:HORROR Film
-http://cs22cs.uk:8000/katka/katka/29525
-#EXTINF:-1,CZ:CT 1 HD
-http://cs22cs.uk:8000/katka/katka/28987
-#EXTINF:-1,CZ:CT 2
-http://cs22cs.uk:8000/katka/katka/28986
-#EXTINF:-1,CZ:CT2
-http://cs22cs.uk:8000/katka/katka/28940
-#EXTINF:-1,CZ:Ceskoslovensko HD
-http://cs22cs.uk:8000/katka/katka/28313
-#EXTINF:-1,CZ:DokuCZ
-http://cs22cs.uk:8000/katka/katka/28312
-#EXTINF:-1,CZ:AMC
-http://cs22cs.uk:8000/katka/katka/29089
-#EXTINF:-1,CZ:Festival
-http://cs22cs.uk:8000/katka/katka/28838
-#EXTINF:-1,CZ:Nova Action HD
-http://cs22cs.uk:8000/katka/katka/28835
-#EXTINF:-1,CZ:SPEKTRUM
-http://cs22cs.uk:8000/katka/katka/28834
-#EXTINF:-1,CZ:ARTE HD
-http://cs22cs.uk:8000/katka/katka/28967
-#EXTINF:-1,CZ:AXN
-http://cs22cs.uk:8000/katka/katka/28958
-#EXTINF:-1,CZ:Film Europe HD
-http://cs22cs.uk:8000/katka/katka/28978
-#EXTINF:-1,CZ:Filmbox Family HD
-http://cs22cs.uk:8000/katka/katka/28956
-#EXTINF:-1,CZ:Filmbox HD
-http://cs22cs.uk:8000/katka/katka/28957
-#EXTINF:-1,CZ:Filmbox Premium HD
-http://cs22cs.uk:8000/katka/katka/28955
-#EXTINF:-1,CZ:Kino Barrandov HD
-http://cs22cs.uk:8000/katka/katka/28982
-#EXTINF:-1,CZ: Filmbox Extra
-http://cs22cs.uk:8000/katka/katka/29502
-#EXTINF:-1,CZ:Kinosvet
-http://cs22cs.uk:8000/katka/katka/28977
-#EXTINF:-1,CZ:Prima
-http://cs22cs.uk:8000/katka/katka/28983
-#EXTINF:-1,CZ:Prima Cool HD
-http://cs22cs.uk:8000/katka/katka/28962
-#EXTINF:-1,SK:TVNZ CZ/SK
-http://cs22cs.uk:8000/katka/katka/28315
-#EXTINF:-1,SK:CCTV.
-http://cs22cs.uk:8000/katka/katka/28316
-#EXTINF:-1,CZ:Arena Sport 1
-http://cs22cs.uk:8000/katka/katka/28949
-#EXTINF:-1,CZ:Arena Sport 2 HD
-http://cs22cs.uk:8000/katka/katka/28948
-#EXTINF:-1,CZ:Eurosport 1
-http://cs22cs.uk:8000/katka/katka/28311
-#EXTINF:-1,CZ:Eurosport 2 HD
-http://cs22cs.uk:8000/katka/katka/28946
-#EXTINF:-1,CZ:Golf Channel HD
-http://cs22cs.uk:8000/katka/katka/28971
-#EXTINF:-1,CZ:KLIK TV
-http://cs22cs.uk:8000/katka/katka/28255
-#EXTINF:-1,SK:LUX Televizia
-http://cs22cs.uk:8000/katka/katka/28317
-#EXTINF:-1,CZ:Retro Music
-http://cs22cs.uk:8000/katka/katka/28254
-#EXTINF:-1,CZ:SENZI
-http://cs22cs.uk:8000/katka/katka/28253
-#EXTINF:-1,SK:pezinok  CZ/SK
-http://cs22cs.uk:8000/katka/katka/28261
-#EXTINF:-1,SK:Bardejov CZ/SK
-http://cs22cs.uk:8000/katka/katka/28260
-#EXTINF:-1,SK:TN Repriza CZ/SK
-http://cs22cs.uk:8000/katka/katka/28327
-#EXTINF:-1,SK:Fashion TV
-http://cs22cs.uk:8000/katka/katka/28822
-#EXTINF:-1,SK:Wau
-http://cs22cs.uk:8000/katka/katka/28832
-#EXTINF:-1,SK:Monte Carlo TV Radio
-http://cs22cs.uk:8000/katka/katka/28823
-#EXTINF:-1,SK:NRJ Hits (Music)
-http://cs22cs.uk:8000/katka/katka/28824
-#EXTINF:-1,SK:Pezinok
-http://cs22cs.uk:8000/katka/katka/28825
-#EXTINF:-1,SK:Reduta
-http://cs22cs.uk:8000/katka/katka/28826
-#EXTINF:-1,SK:Severka.tv Zilina
-http://cs22cs.uk:8000/katka/katka/28827
-#EXTINF:-1,SK:TV8 Televizia OSEM
-http://cs22cs.uk:8000/katka/katka/28828
-#EXTINF:-1,SK:Turzovka
-http://cs22cs.uk:8000/katka/katka/28829
-#EXTINF:-1,SK:TV Hronka (Banska Bystrica)
-http://cs22cs.uk:8000/katka/katka/28830
-#EXTINF:-1,SK:TV KREA (Galanta)
-http://cs22cs.uk:8000/katka/katka/28817
-#EXTINF:-1,SK:TV Mijava
-http://cs22cs.uk:8000/katka/katka/28815
-#EXTINF:-1,SK:TV Naša (Kosice)
-http://cs22cs.uk:8000/katka/katka/28818
-#EXTINF:-1,SK:TV Nitricka
-http://cs22cs.uk:8000/katka/katka/28831
-#EXTINF:-1,SK:TV Skalica
-http://cs22cs.uk:8000/katka/katka/28816
-#EXTINF:-1,SK:TV Povazie
-http://cs22cs.uk:8000/katka/katka/28870
-#EXTINF:-1,SK:NZTV - Nove Zamky
-http://cs22cs.uk:8000/katka/katka/28869
-#EXTINF:-1,CZ:Animal Planet HD
-http://cs22cs.uk:8000/katka/katka/28954
-#EXTINF:-1,CZ:DISCOVERY
-http://cs22cs.uk:8000/katka/katka/28937
-#EXTINF:-1,SK:Discovery HD
-http://cs22cs.uk:8000/katka/katka/28953
-#EXTINF:-1,CZ:Nat Geo HD
-http://cs22cs.uk:8000/katka/katka/28951
-#EXTINF:-1,CZ:NatGeo Wild HD
-http://cs22cs.uk:8000/katka/katka/28950
-#EXTINF:-1,CZ:Viasat Explore
-http://cs22cs.uk:8000/katka/katka/28976
-#EXTINF:-1,CZ:Viasat History
-http://cs22cs.uk:8000/katka/katka/28975
-#EXTINF:-1,CZ:Viasat Nature
-http://cs22cs.uk:8000/katka/katka/28974
-#EXTINF:-1,CZ:Barrandov Muzika HD
-http://cs22cs.uk:8000/katka/katka/28964
-#EXTINF:-1,CZ:Mnam
-http://cs22cs.uk:8000/katka/katka/28966
-#EXTINF:-1,CZ:Boomerang
-http://cs22cs.uk:8000/katka/katka/29090
-#EXTINF:-1,CZ:Duck TV
-http://cs22cs.uk:8000/katka/katka/29092
-#EXTINF:-1,CZ:nick
-http://cs22cs.uk:8000/katka/katka/28935
-#EXTINF:-1,CZ:Nick HU
-http://cs22cs.uk:8000/katka/katka/28939
-#EXTINF:-1,CZ:Nickelodeon
-http://cs22cs.uk:8000/katka/katka/28944
-#EXTINF:-1,CZ:Nickelodeon Junior
-http://cs22cs.uk:8000/katka/katka/28943
-#EXTINF:-1,CZ:Rebel
-http://cs22cs.uk:8000/katka/katka/28965
-#EXTINF:-1,CZ:Regionalni TV
-http://cs22cs.uk:8000/katka/katka/28945
-#EXTINF:-1,CZ:Ócko Expres
-http://cs22cs.uk:8000/katka/katka/29526
-#EXTINF:-1,CZ:Ócko Star
-http://cs22cs.uk:8000/katka/katka/29527
-#EXTINF:-1,CZ:Relax
-http://cs22cs.uk:8000/katka/katka/28979
-#EXTINF:-1,CZ:Tuty - kids
-http://cs22cs.uk:8000/katka/katka/29521
-#EXTINF:-1,SK:Rik CZ/SK
-http://cs22cs.uk:8000/katka/katka/28314
-#EXTINF:-1,===== SKY UK SPORT =====
-http://cs22cs.uk:8000/katka/katka/9364
-#EXTINF:-1,Sky Sports News HD
-http://cs22cs.uk:8000/katka/katka/19339
-#EXTINF:-1,Sky Sports News FHD
-http://cs22cs.uk:8000/katka/katka/26791
-#EXTINF:-1,Sky Sports News (Backup)
-http://cs22cs.uk:8000/katka/katka/29984
-#EXTINF:-1,SKY Sports Main Event HD
-http://cs22cs.uk:8000/katka/katka/11145
-#EXTINF:-1,Sky Sports Main Event FHD
-http://cs22cs.uk:8000/katka/katka/26799
-#EXTINF:-1,Sky Sports Main Event (Backup)
-http://cs22cs.uk:8000/katka/katka/29401
-#EXTINF:-1,Sky Sports Premier League HD
-http://cs22cs.uk:8000/katka/katka/20137
-#EXTINF:-1,Sky Sports Prem Lg FHD
-http://cs22cs.uk:8000/katka/katka/26798
-#EXTINF:-1,Sky Sports Prem Lg (Backup)
-http://cs22cs.uk:8000/katka/katka/29383
-#EXTINF:-1,Sky Sports Football HD
-http://cs22cs.uk:8000/katka/katka/21600
-#EXTINF:-1,Sky Sports Football FHD
-http://cs22cs.uk:8000/katka/katka/26797
-#EXTINF:-1,Sky Sports Football (backup)
-http://cs22cs.uk:8000/katka/katka/29411
-#EXTINF:-1,Sky Sports Golf HD
-http://cs22cs.uk:8000/katka/katka/20136
-#EXTINF:-1,Sky Sports Golf FHD
-http://cs22cs.uk:8000/katka/katka/26795
-#EXTINF:-1,Sky Sports Golf  (backup)
-http://cs22cs.uk:8000/katka/katka/29408
-#EXTINF:-1,Sky Sports Cricket HD
-http://cs22cs.uk:8000/katka/katka/20142
-#EXTINF:-1,Sky Sports Cricket  FHD
-http://cs22cs.uk:8000/katka/katka/26796
-#EXTINF:-1,Sky Sports Cricket (backup)
-http://cs22cs.uk:8000/katka/katka/29410
-#EXTINF:-1,Sky Sports Action HD
-http://cs22cs.uk:8000/katka/katka/20149
-#EXTINF:-1,Sky Sports Action FHD
-http://cs22cs.uk:8000/katka/katka/26793
-#EXTINF:-1,Sky Sports Arena HD
-http://cs22cs.uk:8000/katka/katka/22507
-#EXTINF:-1,Sky Sports Arena FHD
-http://cs22cs.uk:8000/katka/katka/26792
-#EXTINF:-1,Sky Sports Mix HD
-http://cs22cs.uk:8000/katka/katka/20140
-#EXTINF:-1,Sky Sports MIX FHD
-http://cs22cs.uk:8000/katka/katka/26790
-#EXTINF:-1,BT Sport 1 HD
-http://cs22cs.uk:8000/katka/katka/19312
-#EXTINF:-1,BT Sport 1 FHD
-http://cs22cs.uk:8000/katka/katka/26787
-#EXTINF:-1,BT Sport 1 FHD2
-http://cs22cs.uk:8000/katka/katka/26786
-#EXTINF:-1,BT Sport 2 HD
-http://cs22cs.uk:8000/katka/katka/19313
-#EXTINF:-1,BT Sport 2 FHD
-http://cs22cs.uk:8000/katka/katka/26785
-#EXTINF:-1,BT Sport 3 HD
-http://cs22cs.uk:8000/katka/katka/19314
-#EXTINF:-1,BT Sport 3 FHD
-http://cs22cs.uk:8000/katka/katka/26784
-#EXTINF:-1,BT Sport ESPN HD
-http://cs22cs.uk:8000/katka/katka/22674
-#EXTINF:-1,BT Sport ESPN FHD
-http://cs22cs.uk:8000/katka/katka/26783
-#EXTINF:-1,EIR SPORT 1
-http://cs22cs.uk:8000/katka/katka/19322
-#EXTINF:-1,EIR SPORT 1 (backup)
-http://cs22cs.uk:8000/katka/katka/29409
-#EXTINF:-1,EIR SPORT 2
-http://cs22cs.uk:8000/katka/katka/11129
-#EXTINF:-1,EIR SPORT 2 HD
-http://cs22cs.uk:8000/katka/katka/30718
-#EXTINF:-1,MUTV HD
-http://cs22cs.uk:8000/katka/katka/21419
-#EXTINF:-1,MUTV FHD
-http://cs22cs.uk:8000/katka/katka/26782
-#EXTINF:-1,LIVERPOOL FC
-http://cs22cs.uk:8000/katka/katka/21000
-#EXTINF:-1,Liverpool FC TV HD
-http://cs22cs.uk:8000/katka/katka/26781
-#EXTINF:-1,CHELSEA TV
-http://cs22cs.uk:8000/katka/katka/21001
-#EXTINF:-1,Free Sport
-http://cs22cs.uk:8000/katka/katka/28813
-#EXTINF:-1,RANGERS TV (LIVE MATCHES ONLY)
-http://cs22cs.uk:8000/katka/katka/18950
-#EXTINF:-1,RANGERS TV (Backup)
-http://cs22cs.uk:8000/katka/katka/30099
-#EXTINF:-1,CELTIC TV (LIVE MATCHES ONLY)
-http://cs22cs.uk:8000/katka/katka/18290
-#EXTINF:-1,Premier Sports HD
-http://cs22cs.uk:8000/katka/katka/21414
-#EXTINF:-1,Sky Sports F1 HD
-http://cs22cs.uk:8000/katka/katka/21428
-#EXTINF:-1,Sky Sports F1 FHD
-http://cs22cs.uk:8000/katka/katka/26794
-#EXTINF:-1,MOTORS TV
-http://cs22cs.uk:8000/katka/katka/21290
-#EXTINF:-1,BOX NATION HD
-http://cs22cs.uk:8000/katka/katka/23259
-#EXTINF:-1,BOX NATION SD
-http://cs22cs.uk:8000/katka/katka/19311
-#EXTINF:-1,FIGHTBOX HD
-http://cs22cs.uk:8000/katka/katka/21459
-#EXTINF:-1,UK:WWE HD
-http://cs22cs.uk:8000/katka/katka/29321
-#EXTINF:-1,Eurosport 1 HD
-http://cs22cs.uk:8000/katka/katka/21422
-#EXTINF:-1,Eurosport 1 FHD
-http://cs22cs.uk:8000/katka/katka/26789
-#EXTINF:-1,UK:Eurosport 2 HD
-http://cs22cs.uk:8000/katka/katka/20189
-#EXTINF:-1,Eurosport 2 FHD
-http://cs22cs.uk:8000/katka/katka/26788
-#EXTINF:-1,Racing UK HD
-http://cs22cs.uk:8000/katka/katka/20169
-#EXTINF:-1,At The Races
-http://cs22cs.uk:8000/katka/katka/21424
-#EXTINF:-1,Dubai Racing
-http://cs22cs.uk:8000/katka/katka/22841
-#EXTINF:-1,William Hill TV
-http://cs22cs.uk:8000/katka/katka/26774
-#EXTINF:-1,BETFRED
-http://cs22cs.uk:8000/katka/katka/26780
-#EXTINF:-1,Coral TV
-http://cs22cs.uk:8000/katka/katka/26779
-#EXTINF:-1,Ladbrokes TV
-http://cs22cs.uk:8000/katka/katka/26778
-#EXTINF:-1,PADDY POWER 3
-http://cs22cs.uk:8000/katka/katka/26777
-#EXTINF:-1,Sheffield Steelers
-http://cs22cs.uk:8000/katka/katka/26773
-#EXTINF:-1,SkySpBoxOff (PPV)
-http://cs22cs.uk:8000/katka/katka/21412
-#EXTINF:-1,iTV Box Office ( ppv events only )
-http://cs22cs.uk:8000/katka/katka/21529
-#EXTINF:-1,UK:Eleven 1 FHD
-http://cs22cs.uk:8000/katka/katka/29458
-#EXTINF:-1,UK: Eleven 2 FHD
-http://cs22cs.uk:8000/katka/katka/29459
-#EXTINF:-1,UK: Eleven Sports La liga 24/7
-http://cs22cs.uk:8000/katka/katka/29460
-#EXTINF:-1,BEIN SPORTS 11 (English)
-http://cs22cs.uk:8000/katka/katka/21411
-#EXTINF:-1,BEIN SPORTS 12 (English)
-http://cs22cs.uk:8000/katka/katka/21410
-#EXTINF:-1,US*:TSN Sports 1 HD
-http://cs22cs.uk:8000/katka/katka/27963
-#EXTINF:-1,TSN 3 HD (3pm kick offs)
-http://cs22cs.uk:8000/katka/katka/20842
-#EXTINF:-1,TSN 4 HD
-http://cs22cs.uk:8000/katka/katka/20841
-#EXTINF:-1,US*:TSN Sports 3 HD
-http://cs22cs.uk:8000/katka/katka/27961
-#EXTINF:-1,Osn Sports 1 HD Action
-http://cs22cs.uk:8000/katka/katka/29453
-#EXTINF:-1,Osn Sports 2 HD Action
-http://cs22cs.uk:8000/katka/katka/29454
-#EXTINF:-1,IN: Star Sports 1
-http://cs22cs.uk:8000/katka/katka/20338
-#EXTINF:-1,IND: SONY Ten Sport 1
-http://cs22cs.uk:8000/katka/katka/22504
-#EXTINF:-1,IN:SONY Ten Sport 2
-http://cs22cs.uk:8000/katka/katka/22505
-#EXTINF:-1,IN: SONY Star Sports 2
-http://cs22cs.uk:8000/katka/katka/20337
-#EXTINF:-1,IND:SONY Ten Sport 3
-http://cs22cs.uk:8000/katka/katka/19055
-#EXTINF:-1,UK:SKYNET SPORT 1
-http://cs22cs.uk:8000/katka/katka/27116
-#EXTINF:-1,UK:SKYNET SPORT 2
-http://cs22cs.uk:8000/katka/katka/27117
-#EXTINF:-1,UK:SKYNET SPORT 3
-http://cs22cs.uk:8000/katka/katka/27118
-#EXTINF:-1,UK:SKYNET SPORT 4
-http://cs22cs.uk:8000/katka/katka/27119
-#EXTINF:-1,UK:SKYNET SPORT 5
-http://cs22cs.uk:8000/katka/katka/27120
-#EXTINF:-1,===== SKY MOVIES =====
-http://cs22cs.uk:8000/katka/katka/9330
-#EXTINF:-1,Sky Cinema Premiere HD
-http://cs22cs.uk:8000/katka/katka/20152
-#EXTINF:-1,SKY CINEMA PREMIERE FHD
-http://cs22cs.uk:8000/katka/katka/26815
-#EXTINF:-1,Sky Cinema Premier +1
-http://cs22cs.uk:8000/katka/katka/20153
-#EXTINF:-1,Sky Cinema Action HD
-http://cs22cs.uk:8000/katka/katka/20161
-#EXTINF:-1,SKY CINEMA ACTION FHD
-http://cs22cs.uk:8000/katka/katka/26808
-#EXTINF:-1,Sky Cinema Greats HD
-http://cs22cs.uk:8000/katka/katka/21303
-#EXTINF:-1,SKY CINEMA GREATS FHD
-http://cs22cs.uk:8000/katka/katka/26811
-#EXTINF:-1,Sky Cinema Disney HD
-http://cs22cs.uk:8000/katka/katka/20158
-#EXTINF:-1,SKY CINEMA DISNEY FHD
-http://cs22cs.uk:8000/katka/katka/26810
-#EXTINF:-1,Sky Cinema Drama & Romance HD
-http://cs22cs.uk:8000/katka/katka/20157
-#EXTINF:-1,SKY CINEMA DRAMA FHD
-http://cs22cs.uk:8000/katka/katka/26814
-#EXTINF:-1,SKY CINEMA DRAMA HD
-http://cs22cs.uk:8000/katka/katka/26813
-#EXTINF:-1,Sky Cinema Family HD
-http://cs22cs.uk:8000/katka/katka/20156
-#EXTINF:-1,SKY CINEMA FAMILY FHD
-http://cs22cs.uk:8000/katka/katka/26809
-#EXTINF:-1,Sky Cinema Crime Thriller HD
-http://cs22cs.uk:8000/katka/katka/20159
-#EXTINF:-1,SKY CINEMA THRILLER FHD
-http://cs22cs.uk:8000/katka/katka/26806
-#EXTINF:-1,Sky Cinema Hits HD
-http://cs22cs.uk:8000/katka/katka/20154
-#EXTINF:-1,SKY CINEMA HITS FHD
-http://cs22cs.uk:8000/katka/katka/26812
-#EXTINF:-1,Sky Cinema SciFi & Hor HD
-http://cs22cs.uk:8000/katka/katka/20151
-#EXTINF:-1,Sky Cinema Comedy HD
-http://cs22cs.uk:8000/katka/katka/21302
-#EXTINF:-1,SKY CINEMA SCIFI & HORROR FHD
-http://cs22cs.uk:8000/katka/katka/26805
-#EXTINF:-1,SKY CINEMA COMEDY FHD
-http://cs22cs.uk:8000/katka/katka/26807
-#EXTINF:-1,Sky Cinema Select HD UK
-http://cs22cs.uk:8000/katka/katka/21301
-#EXTINF:-1,SKY CINEMA SELECT FHD
-http://cs22cs.uk:8000/katka/katka/26804
-#EXTINF:-1,UK:HORROR CHANNEL
-http://cs22cs.uk:8000/katka/katka/29348
-#EXTINF:-1,Sky Atlantic HD
-http://cs22cs.uk:8000/katka/katka/20162
-#EXTINF:-1,SKY ATLANTIC FHD
-http://cs22cs.uk:8000/katka/katka/21090
-#EXTINF:-1,Sky Showcase HD UK
-http://cs22cs.uk:8000/katka/katka/20877
-#EXTINF:-1,UK:SyFy
-http://cs22cs.uk:8000/katka/katka/21399
-#EXTINF:-1,Box Office 1 HD
-http://cs22cs.uk:8000/katka/katka/20933
-#EXTINF:-1,BoxOffice 2 HD
-http://cs22cs.uk:8000/katka/katka/22498
-#EXTINF:-1,BoxOffice 3D
-http://cs22cs.uk:8000/katka/katka/21601
-#EXTINF:-1,Box Office 4 HD
-http://cs22cs.uk:8000/katka/katka/22499
-#EXTINF:-1,UK:SKY BOX OFFICE MOVIES 1HD
-http://cs22cs.uk:8000/katka/katka/29352
-#EXTINF:-1,UK:SKY BOX OFFICE MOVIES 2HD
-http://cs22cs.uk:8000/katka/katka/29351
-#EXTINF:-1,UK:SKY BOX OFFICE MOVIES 3HD
-http://cs22cs.uk:8000/katka/katka/29350
-#EXTINF:-1,UK:SKY BOX OFFICE MOVIES 4HD
-http://cs22cs.uk:8000/katka/katka/29349
-#EXTINF:-1,TRUE MOVIES 1
-http://cs22cs.uk:8000/katka/katka/20865
-#EXTINF:-1,UK:MOVIES 24
-http://cs22cs.uk:8000/katka/katka/29353
-#EXTINF:-1,UK:MOVIES 4 MEN
-http://cs22cs.uk:8000/katka/katka/29347
-#EXTINF:-1,Movies4Men
-http://cs22cs.uk:8000/katka/katka/20896
-#EXTINF:-1,FILM4 HD
-http://cs22cs.uk:8000/katka/katka/26803
-#EXTINF:-1,TCM HD
-http://cs22cs.uk:8000/katka/katka/20872
-#EXTINF:-1,TCM FHD
-http://cs22cs.uk:8000/katka/katka/26802
-#EXTINF:-1,UK:TCM+1 SD
-http://cs22cs.uk:8000/katka/katka/29498
-#EXTINF:-1,===== SKY UK KIDS =====
-http://cs22cs.uk:8000/katka/katka/9298
-#EXTINF:-1,Paw Control 24/7
-http://cs22cs.uk:8000/katka/katka/24471
-#EXTINF:-1,Chuggington 24/7
-http://cs22cs.uk:8000/katka/katka/30754
-#EXTINF:-1,Tom And Jerry
-http://cs22cs.uk:8000/katka/katka/30032
-#EXTINF:-1,Masha and Bear
-http://cs22cs.uk:8000/katka/katka/30030
-#EXTINF:-1,Baby Sings - Dave&Ava
-http://cs22cs.uk:8000/katka/katka/30031
-#EXTINF:-1,Baby TV UK
-http://cs22cs.uk:8000/katka/katka/17641
-#EXTINF:-1,Cbeebies HD
-http://cs22cs.uk:8000/katka/katka/21394
-#EXTINF:-1,UK:CBBC
-http://cs22cs.uk:8000/katka/katka/29323
-#EXTINF:-1,Nick Junior
-http://cs22cs.uk:8000/katka/katka/18291
-#EXTINF:-1,Nick Jr 2-Too Peppa
-http://cs22cs.uk:8000/katka/katka/21288
-#EXTINF:-1,Nick +1
-http://cs22cs.uk:8000/katka/katka/21391
-#EXTINF:-1,Rte Jr
-http://cs22cs.uk:8000/katka/katka/20951
-#EXTINF:-1,UK:Cartoonito
-http://cs22cs.uk:8000/katka/katka/24244
-#EXTINF:-1,NickToons
-http://cs22cs.uk:8000/katka/katka/21042
-#EXTINF:-1,UK:NICKTOONS
-http://cs22cs.uk:8000/katka/katka/29329
-#EXTINF:-1,Boomerang
-http://cs22cs.uk:8000/katka/katka/19310
-#EXTINF:-1,UK:BOOMERANG
-http://cs22cs.uk:8000/katka/katka/29331
-#EXTINF:-1,Tiny Pop
-http://cs22cs.uk:8000/katka/katka/20948
-#EXTINF:-1,Tiny Pop +1
-http://cs22cs.uk:8000/katka/katka/28355
-#EXTINF:-1,Nickelodeon
-http://cs22cs.uk:8000/katka/katka/20172
-#EXTINF:-1,UK:NICKELODEON
-http://cs22cs.uk:8000/katka/katka/29330
-#EXTINF:-1,Disney Junior
-http://cs22cs.uk:8000/katka/katka/19320
-#EXTINF:-1,Disney Channel HD
-http://cs22cs.uk:8000/katka/katka/21393
-#EXTINF:-1,UK:DISNEY CHANNEL
-http://cs22cs.uk:8000/katka/katka/29327
-#EXTINF:-1,UK:DISNEY CHANNEL SD
-http://cs22cs.uk:8000/katka/katka/29326
-#EXTINF:-1,UK:DISNEY JR
-http://cs22cs.uk:8000/katka/katka/29325
-#EXTINF:-1,UK:DISNEY XD HD
-http://cs22cs.uk:8000/katka/katka/29328
-#EXTINF:-1,Cartoon Network
-http://cs22cs.uk:8000/katka/katka/20204
-#EXTINF:-1,UK:CARTOON NETWORK
-http://cs22cs.uk:8000/katka/katka/29332
-#EXTINF:-1,UK:Cartoon Network +1
-http://cs22cs.uk:8000/katka/katka/29162
-#EXTINF:-1,Disney XD
-http://cs22cs.uk:8000/katka/katka/21392
-#EXTINF:-1,====  SKY UK MUSIC =====
-http://cs22cs.uk:8000/katka/katka/9310
-#EXTINF:-1,MTV Base HD
-http://cs22cs.uk:8000/katka/katka/20181
-#EXTINF:-1,MTV Dance
-http://cs22cs.uk:8000/katka/katka/18507
-#EXTINF:-1,MTV Hits  UK
-http://cs22cs.uk:8000/katka/katka/20180
-#EXTINF:-1,MTV Music
-http://cs22cs.uk:8000/katka/katka/20178
-#EXTINF:-1,UK:MTV Live HD
-http://cs22cs.uk:8000/katka/katka/20988
-#EXTINF:-1,MTV ROCKS
-http://cs22cs.uk:8000/katka/katka/20177
-#EXTINF:-1,MTV OMG
-http://cs22cs.uk:8000/katka/katka/26771
-#EXTINF:-1,MTV Classic HD
-http://cs22cs.uk:8000/katka/katka/20989
-#EXTINF:-1,MTV UK
-http://cs22cs.uk:8000/katka/katka/20987
-#EXTINF:-1,THE VAULT
-http://cs22cs.uk:8000/katka/katka/20871
-#EXTINF:-1,Capital Radio Tv
-http://cs22cs.uk:8000/katka/katka/21286
-#EXTINF:-1,Kiss Radio Tv
-http://cs22cs.uk:8000/katka/katka/21285
-#EXTINF:-1,Virgin Radio Tv
-http://cs22cs.uk:8000/katka/katka/21284
-#EXTINF:-1,Box Hits
-http://cs22cs.uk:8000/katka/katka/26768
-#EXTINF:-1,Chart Show Hits UK
-http://cs22cs.uk:8000/katka/katka/26763
-#EXTINF:-1,Magic Tv
-http://cs22cs.uk:8000/katka/katka/26766
-#EXTINF:-1,==== DISCOVERY == LIVESTYLE ====
-http://cs22cs.uk:8000/katka/katka/19164
-#EXTINF:-1,Discovery channel
-http://cs22cs.uk:8000/katka/katka/29345
-#EXTINF:-1,Discovery Channel HD
-http://cs22cs.uk:8000/katka/katka/20195
-#EXTINF:-1,Discovery History
-http://cs22cs.uk:8000/katka/katka/20908
-#EXTINF:-1,Discovery History (Backup)
-http://cs22cs.uk:8000/katka/katka/29339
-#EXTINF:-1,Discovery Science
-http://cs22cs.uk:8000/katka/katka/20894
-#EXTINF:-1,UK:DISCOVERY SCIENCE
-http://cs22cs.uk:8000/katka/katka/29343
-#EXTINF:-1,Discovery Science +1 UK
-http://cs22cs.uk:8000/katka/katka/28886
-#EXTINF:-1,Discovery Shed UK
-http://cs22cs.uk:8000/katka/katka/20892
-#EXTINF:-1,UK:DISCOVERY SHED
-http://cs22cs.uk:8000/katka/katka/29341
-#EXTINF:-1,Discovery Turbo
-http://cs22cs.uk:8000/katka/katka/20924
-#EXTINF:-1,Discovery Turbo (Backup)
-http://cs22cs.uk:8000/katka/katka/29344
-#EXTINF:-1,Nat Geo WILD HD
-http://cs22cs.uk:8000/katka/katka/18450
-#EXTINF:-1,UK:ANIMAL PLANET
-http://cs22cs.uk:8000/katka/katka/29338
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2916
+#EXTINF:-1,KLASIK TV
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/646
+ #EXTINF:-1,HBO HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/194
+#EXTINF:-1,HBO 2 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/195
+#EXTINF:-1,HBO 3 HD
+ http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/230
+#EXTINF:-1,HBO GO
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/48987
+#EXTINF:-1,Cinemax 1 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/217
+#EXTINF:-1,Cinemax 2 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/218
+#EXTINF:-1,CineStar TV 1
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/158
+#EXTINF:-1,CineStar TV 2
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/46556
+#EXTINF:-1,CineStar Action
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/418
+#EXTINF:-1,CineStar Fantasy
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/19148
+#EXTINF:-1,Cinestar Comedy
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/48986
+#EXTINF:-1,CineStar Premiere 1
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/155
+#EXTINF:-1,CineStar Premiere 2
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/156
+#EXTINF:-1,Cinemania
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/3207
+#EXTINF:-1,AMC
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/752
+#EXTINF:-1,TV1000
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/427
+#EXTINF:-1,Kino TV HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2459
+#EXTINF:-1,Diva
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/403
+#EXTINF:-1,Epic Drama
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/25920
+#EXTINF:-1,Super Star TV HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/19223
+#EXTINF:-1,Pickbox TV
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/31508
+#EXTINF:-1,Fox Movies HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/3001
+#EXTINF:-1,Fox HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/3000
+#EXTINF:-1,Fox Life HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/3002
+#EXTINF:-1,Fox Crime HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/3003
+#EXTINF:-1,Fox Movies
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/160
+#EXTINF:-1,Fox
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/159
+#EXTINF:-1,Fox Life
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/161
+#EXTINF:-1,Fox Crime
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/582
+#EXTINF:-1,SciFi
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/753
+#EXTINF:-1,CC Extra
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/648
+#EXTINF:-1,AXN
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/162
+#EXTINF:-1,AXN Spin
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/584
+#EXTINF:-1,------------ MAX SELECT -------------
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6237
+#EXTINF:-1,Max Select 01 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6232
+#EXTINF:-1,Max Select 02 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6231
+#EXTINF:-1,Max Select 03 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6230
+#EXTINF:-1,Max Select 04 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6229
+#EXTINF:-1,Max Select 05 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6228
+#EXTINF:-1,Max Select 06 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6227
+#EXTINF:-1,Max Select 07 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6226
+#EXTINF:-1,Max Select 08 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6225
+#EXTINF:-1,Max Select 09 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6224
+#EXTINF:-1,Max Select 10 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6223
+#EXTINF:-1,Max Select 11 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6222
+#EXTINF:-1,Max Select 12 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6221
+#EXTINF:-1,Max Select 13 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6220
+#EXTINF:-1,Max Select 14 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6219
+#EXTINF:-1,Max Select 15 HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6218
+#EXTINF:-1,Max Select 16 Doku
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6217
+#EXTINF:-1,Max Select 17 Doku
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6216
+#EXTINF:-1,Max Select 18 Doku
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6215
+#EXTINF:-1,Max Select 19 Doku
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6214
+#EXTINF:-1,Max Select 20 Doku
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6213
+#EXTINF:-1,Max Select 21 Ex-Yu
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6212
+#EXTINF:-1,Max Select 22 Ex-Yu
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6211
+#EXTINF:-1,Max Select 23 Ex-Yu
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6210
+#EXTINF:-1,Max Select 24 Ex-Yu
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6209
+#EXTINF:-1,------------ DOKUMENTARCI ------------
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2915
+#EXTINF:-1,Animal Planet
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/344
 #EXTINF:-1,National Geographic HD
-http://cs22cs.uk:8000/katka/katka/20175
-#EXTINF:-1,Crime and Investigation HD
-http://cs22cs.uk:8000/katka/katka/20928
-#EXTINF:-1,UK:CRIME -&- INVESTIGATION
-http://cs22cs.uk:8000/katka/katka/29333
-#EXTINF:-1,UK:DISCOVERY HOME & HEATH
-http://cs22cs.uk:8000/katka/katka/29340
-#EXTINF:-1,EDEN HD
-http://cs22cs.uk:8000/katka/katka/29337
-#EXTINF:-1,EDEN
-http://cs22cs.uk:8000/katka/katka/20920
-#EXTINF:-1,ID UK
-http://cs22cs.uk:8000/katka/katka/20903
-#EXTINF:-1,H2 HD
-http://cs22cs.uk:8000/katka/katka/21304
-#EXTINF:-1,History UK
-http://cs22cs.uk:8000/katka/katka/21305
-#EXTINF:-1,History FHD UK
-http://cs22cs.uk:8000/katka/katka/26817
-#EXTINF:-1,Blaze
-http://cs22cs.uk:8000/katka/katka/26816
-#EXTINF:-1,UK:SONY CRIME
-http://cs22cs.uk:8000/katka/katka/29354
-#EXTINF:-1,PBS America
-http://cs22cs.uk:8000/katka/katka/26818
-#EXTINF:-1,===== UK SKY NEWS =====
-http://cs22cs.uk:8000/katka/katka/20199
-#EXTINF:-1,UK:BBC NEWS HD
-http://cs22cs.uk:8000/katka/katka/20956
-#EXTINF:-1,UK:BBC NEWS FHD
-http://cs22cs.uk:8000/katka/katka/30033
-#EXTINF:-1,UK:Sky News
-http://cs22cs.uk:8000/katka/katka/21387
-#EXTINF:-1,UK:SKY NEWS HD
-http://cs22cs.uk:8000/katka/katka/30011
-#EXTINF:-1,CNN FHD
-http://cs22cs.uk:8000/katka/katka/26772
-#EXTINF:-1,Rte News Now
-http://cs22cs.uk:8000/katka/katka/20985
-#EXTINF:-1,UK:euronews
-http://cs22cs.uk:8000/katka/katka/21013
-#EXTINF:-1,Al Jazeera News UK
-http://cs22cs.uk:8000/katka/katka/20960
-#EXTINF:-1,=== UK-Entertainment ===
-http://cs22cs.uk:8000/katka/katka/29376
-#EXTINF:-1,Only Fools and Horses 24/7
-http://cs22cs.uk:8000/katka/katka/30755
-#EXTINF:-1,Only Fools And Horses LOST EPISODES AND SPECIALS 24/7
-http://cs22cs.uk:8000/katka/katka/30756
-#EXTINF:-1,UK:BBC ONE HD
-http://cs22cs.uk:8000/katka/katka/20955
-#EXTINF:-1,UK:BBC ONE FHD
-http://cs22cs.uk:8000/katka/katka/29165
-#EXTINF:-1,UK:BBC One NI FHD
-http://cs22cs.uk:8000/katka/katka/29375
-#EXTINF:-1,UK:BBC One Wales HD
-http://cs22cs.uk:8000/katka/katka/29373
-#EXTINF:-1,UK:BBC 1 Wales
-http://cs22cs.uk:8000/katka/katka/29163
-#EXTINF:-1,BBC Two HD
-http://cs22cs.uk:8000/katka/katka/23343
-#EXTINF:-1,UK:BBC Two FHD
-http://cs22cs.uk:8000/katka/katka/29371
-#EXTINF:-1,BBC 3
-http://cs22cs.uk:8000/katka/katka/20959
-#EXTINF:-1,BBC Four HD
-http://cs22cs.uk:8000/katka/katka/21309
-#EXTINF:-1,BBC Four FHD
-http://cs22cs.uk:8000/katka/katka/30759
-#EXTINF:-1,ITV HD
-http://cs22cs.uk:8000/katka/katka/21311
-#EXTINF:-1,ITV FHD
-http://cs22cs.uk:8000/katka/katka/26843
-#EXTINF:-1,ITV 1 HD
-http://cs22cs.uk:8000/katka/katka/20980
-#EXTINF:-1,ITV +1 UK
-http://cs22cs.uk:8000/katka/katka/24347
-#EXTINF:-1,ITV 2 HD
-http://cs22cs.uk:8000/katka/katka/18473
-#EXTINF:-1,ITV 2 FHD
-http://cs22cs.uk:8000/katka/katka/30799
-#EXTINF:-1,ITV 2 +1
-http://cs22cs.uk:8000/katka/katka/30800
-#EXTINF:-1,ITV 3
-http://cs22cs.uk:8000/katka/katka/20978
-#EXTINF:-1,ITV 3 HD
-http://cs22cs.uk:8000/katka/katka/29985
-#EXTINF:-1,ITV 3  +1
-http://cs22cs.uk:8000/katka/katka/29456
-#EXTINF:-1,ITV 4
-http://cs22cs.uk:8000/katka/katka/20977
-#EXTINF:-1,UK:ITV Central West
-http://cs22cs.uk:8000/katka/katka/29369
-#EXTINF:-1,UK:ITV Granada FHD
-http://cs22cs.uk:8000/katka/katka/29368
-#EXTINF:-1,UK:ITV London
-http://cs22cs.uk:8000/katka/katka/29367
-#EXTINF:-1,(L)ITV Meridian
-http://cs22cs.uk:8000/katka/katka/29366
-#EXTINF:-1,UK:ITV Wales FHD
-http://cs22cs.uk:8000/katka/katka/29364
-#EXTINF:-1,UK:ITV Westcountry South West FHD
-http://cs22cs.uk:8000/katka/katka/29363
-#EXTINF:-1,UK:ITV Westcountry West FHD
-http://cs22cs.uk:8000/katka/katka/29362
-#EXTINF:-1,STV HD
-http://cs22cs.uk:8000/katka/katka/28351
-#EXTINF:-1,Channel 4 +1
-http://cs22cs.uk:8000/katka/katka/24349
-#EXTINF:-1,Channel 4 HD
-http://cs22cs.uk:8000/katka/katka/20941
-#EXTINF:-1,Channel 5 HD
-http://cs22cs.uk:8000/katka/katka/20940
-#EXTINF:-1,Channel 5 +1
-http://cs22cs.uk:8000/katka/katka/24350
-#EXTINF:-1,RTE One HD
-http://cs22cs.uk:8000/katka/katka/20167
-#EXTINF:-1,RTE Two
-http://cs22cs.uk:8000/katka/katka/20166
-#EXTINF:-1,3E Ireland
-http://cs22cs.uk:8000/katka/katka/20983
-#EXTINF:-1,UK:TG4
-http://cs22cs.uk:8000/katka/katka/20982
-#EXTINF:-1,UK:UTV HD Ireland
-http://cs22cs.uk:8000/katka/katka/20984
-#EXTINF:-1,UK:UTV FHD
-http://cs22cs.uk:8000/katka/katka/30016
-#EXTINF:-1,UK:Sky One
-http://cs22cs.uk:8000/katka/katka/20876
-#EXTINF:-1,UK:Sky One FHD
-http://cs22cs.uk:8000/katka/katka/30012
-#EXTINF:-1,Sky Two
-http://cs22cs.uk:8000/katka/katka/20875
-#EXTINF:-1,TRUE ENTERTAINMENT
-http://cs22cs.uk:8000/katka/katka/20867
-#EXTINF:-1,TRUE ENT +1
-http://cs22cs.uk:8000/katka/katka/20866
-#EXTINF:-1,VH 1 TEACHERS UK
-http://cs22cs.uk:8000/katka/katka/20986
-#EXTINF:-1,Itv BE
-http://cs22cs.uk:8000/katka/katka/20975
-#EXTINF:-1,Pick Tv
-http://cs22cs.uk:8000/katka/katka/20890
-#EXTINF:-1,Watch
-http://cs22cs.uk:8000/katka/katka/20947
-#EXTINF:-1,REAL LIVES
-http://cs22cs.uk:8000/katka/katka/20887
-#EXTINF:-1,UK:DMAX
-http://cs22cs.uk:8000/katka/katka/29356
-#EXTINF:-1,UK:ALIBI
-http://cs22cs.uk:8000/katka/katka/29359
-#EXTINF:-1,DAVE
-http://cs22cs.uk:8000/katka/katka/20927
-#EXTINF:-1,Dave Ja Vu
-http://cs22cs.uk:8000/katka/katka/26506
-#EXTINF:-1,Sky Living
-http://cs22cs.uk:8000/katka/katka/18447
-#EXTINF:-1,LONDON LIVE
-http://cs22cs.uk:8000/katka/katka/20963
-#EXTINF:-1,UK:Quest
-http://cs22cs.uk:8000/katka/katka/20888
-#EXTINF:-1,UK:Quest Red
-http://cs22cs.uk:8000/katka/katka/29079
-#EXTINF:-1,HORSE & COUNTRY
-http://cs22cs.uk:8000/katka/katka/20904
-#EXTINF:-1,HOME AND HEALTH  1
-http://cs22cs.uk:8000/katka/katka/20906
-#EXTINF:-1,Really
-http://cs22cs.uk:8000/katka/katka/20886
-#EXTINF:-1,5 Star
-http://cs22cs.uk:8000/katka/katka/20967
-#EXTINF:-1,5STAR +1
-http://cs22cs.uk:8000/katka/katka/20966
-#EXTINF:-1,AMC UK
-http://cs22cs.uk:8000/katka/katka/20964
-#EXTINF:-1,CBS Action
-http://cs22cs.uk:8000/katka/katka/20945
-#EXTINF:-1,CBS Drama
-http://cs22cs.uk:8000/katka/katka/20944
-#EXTINF:-1,CBS Reality
-http://cs22cs.uk:8000/katka/katka/20943
-#EXTINF:-1,E4 HD
-http://cs22cs.uk:8000/katka/katka/21308
-#EXTINF:-1,E4 +1
-http://cs22cs.uk:8000/katka/katka/24348
-#EXTINF:-1,Challenge
-http://cs22cs.uk:8000/katka/katka/20925
-#EXTINF:-1,E! UK
-http://cs22cs.uk:8000/katka/katka/20922
-#EXTINF:-1,UK:4SEVEN HD
-http://cs22cs.uk:8000/katka/katka/29358
-#EXTINF:-1,UK:TRU TV
-http://cs22cs.uk:8000/katka/katka/29355
-#EXTINF:-1,UK:YESTERDAY
-http://cs22cs.uk:8000/katka/katka/29336
-#EXTINF:-1,Film 4
-http://cs22cs.uk:8000/katka/katka/20918
-#EXTINF:-1,Food Network
-http://cs22cs.uk:8000/katka/katka/20962
-#EXTINF:-1,Lifetime HD
-http://cs22cs.uk:8000/katka/katka/21307
-#EXTINF:-1,Movies24
-http://cs22cs.uk:8000/katka/katka/21300
-#EXTINF:-1,Sky Living HD
-http://cs22cs.uk:8000/katka/katka/21310
-#EXTINF:-1,Good Food
-http://cs22cs.uk:8000/katka/katka/21541
-#EXTINF:-1,Good Food FHD
-http://cs22cs.uk:8000/katka/katka/30569
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/345
+#EXTINF:-1,National Geo Wild HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/346
+#EXTINF:-1,E!
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/347
+#EXTINF:-1,DIscovery
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/348
+#EXTINF:-1,DIscovery ID
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/349
+#EXTINF:-1,History HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/475
+#EXTINF:-1,History 2
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/476
+#EXTINF:-1,Discovery Turbo Xtra
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/627
+#EXTINF:-1,Viasat Nature
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/647
 #EXTINF:-1,TLC
-http://cs22cs.uk:8000/katka/katka/20870
-#EXTINF:-1,TV3 UK
-http://cs22cs.uk:8000/katka/katka/20976
-#EXTINF:-1,UK:FOX UK FHD
-http://cs22cs.uk:8000/katka/katka/20913
-#EXTINF:-1,Gold UK
-http://cs22cs.uk:8000/katka/katka/20911
-#EXTINF:-1,GOLD +1
-http://cs22cs.uk:8000/katka/katka/24343
-#EXTINF:-1,Comedy Central
-http://cs22cs.uk:8000/katka/katka/20197
-#EXTINF:-1,Comedy Central HD
-http://cs22cs.uk:8000/katka/katka/30010
-#EXTINF:-1,Comedy Central +1
-http://cs22cs.uk:8000/katka/katka/30009
-#EXTINF:-1,Comedy Central Extra
-http://cs22cs.uk:8000/katka/katka/20196
-#EXTINF:-1,UK:Comedy Central Xtra
-http://cs22cs.uk:8000/katka/katka/29360
-#EXTINF:-1,Universal Channel HD
-http://cs22cs.uk:8000/katka/katka/20864
-#EXTINF:-1,=== ASIAN CHANNELS ==
-http://cs22cs.uk:8000/katka/katka/9266
-#EXTINF:-1,IND:ABP NEWS (UK)
-http://cs22cs.uk:8000/katka/katka/26732
-#EXTINF:-1,AR:ABU DHABI TV
-http://cs22cs.uk:8000/katka/katka/26744
-#EXTINF:-1,ATN BANGLA UK
-http://cs22cs.uk:8000/katka/katka/23788
-#EXTINF:-1,IND:B4U Aflam
-http://cs22cs.uk:8000/katka/katka/20211
-#EXTINF:-1,B4U MOVIES UK
-http://cs22cs.uk:8000/katka/katka/21379
-#EXTINF:-1,B4U MUSIC (UK)
-http://cs22cs.uk:8000/katka/katka/26754
-#EXTINF:-1,IND:B4U Plus
-http://cs22cs.uk:8000/katka/katka/20210
-#EXTINF:-1,4Music
-http://cs22cs.uk:8000/katka/katka/20990
-#EXTINF:-1,Pak:Hum Europe
-http://cs22cs.uk:8000/katka/katka/22500
-#EXTINF:-1,ISLAM CHANNEL (UK)
-http://cs22cs.uk:8000/katka/katka/26737
-#EXTINF:-1,RISHTEY (UK)
-http://cs22cs.uk:8000/katka/katka/26724
-#EXTINF:-1,Rishtey Europe
-http://cs22cs.uk:8000/katka/katka/21381
-#EXTINF:-1,IN:Rishtey Cineplex
-http://cs22cs.uk:8000/katka/katka/29235
-#EXTINF:-1,UK:SANGAT
-http://cs22cs.uk:8000/katka/katka/26714
-#EXTINF:-1,UK:SIKH CHANNEL
-http://cs22cs.uk:8000/katka/katka/26718
-#EXTINF:-1,Star Gold
-http://cs22cs.uk:8000/katka/katka/17181
-#EXTINF:-1,STAR PLUS UK
-http://cs22cs.uk:8000/katka/katka/20133
-#EXTINF:-1,STAR LIFE OK
-http://cs22cs.uk:8000/katka/katka/21382
-#EXTINF:-1,IND:ZEE CINEMA HD
-http://cs22cs.uk:8000/katka/katka/20132
-#EXTINF:-1,ZEE TV UK
-http://cs22cs.uk:8000/katka/katka/9262
-#EXTINF:-1,ZEE CLASSIC
-http://cs22cs.uk:8000/katka/katka/20130
-#EXTINF:-1,IND:Zee Punjabi
-http://cs22cs.uk:8000/katka/katka/22028
-#EXTINF:-1,IND:ZEE ACTION
-http://cs22cs.uk:8000/katka/katka/21283
-#EXTINF:-1,UK:ZING
-http://cs22cs.uk:8000/katka/katka/21385
-#EXTINF:-1,AAJ TAK (UK)
-http://cs22cs.uk:8000/katka/katka/26727
-#EXTINF:-1,PK:Geo News
-http://cs22cs.uk:8000/katka/katka/22502
-#EXTINF:-1,PK:GEO TV
-http://cs22cs.uk:8000/katka/katka/20852
-#EXTINF:-1,UK:TV 99
-http://cs22cs.uk:8000/katka/katka/29987
-#EXTINF:-1,IND:Colors HD UK
-http://cs22cs.uk:8000/katka/katka/9254
-#EXTINF:-1,BRIT ASIA TV (UK)
-http://cs22cs.uk:8000/katka/katka/26723
-#EXTINF:-1,PTC PUNJABI (UK)
-http://cs22cs.uk:8000/katka/katka/26729
-#EXTINF:-1,Sony Movies
-http://cs22cs.uk:8000/katka/katka/21400
-#EXTINF:-1,Sony Max HD
-http://cs22cs.uk:8000/katka/katka/20858
-#EXTINF:-1,UK:SONY SAB TV
-http://cs22cs.uk:8000/katka/katka/20857
-#EXTINF:-1,SONY TV
-http://cs22cs.uk:8000/katka/katka/17584
-#EXTINF:-1,ARY DIGITAL UK
-http://cs22cs.uk:8000/katka/katka/18294
-#EXTINF:-1,IND:&TV
-http://cs22cs.uk:8000/katka/katka/20856
-#EXTINF:-1,A PLUS TV  UK
-http://cs22cs.uk:8000/katka/katka/29499
-#EXTINF:-1,IND:A PLUS
-http://cs22cs.uk:8000/katka/katka/19068
-#EXTINF:-1,PK:A Plus
-http://cs22cs.uk:8000/katka/katka/23729
-#EXTINF:-1,Brit Asia
-http://cs22cs.uk:8000/katka/katka/23717
-#EXTINF:-1,Nollywood UK
-http://cs22cs.uk:8000/katka/katka/18345
-#EXTINF:-1,AF:ROK
-http://cs22cs.uk:8000/katka/katka/26800
-#EXTINF:-1,IND:& TV HD
-http://cs22cs.uk:8000/katka/katka/20351
-#EXTINF:-1,USA:Cinemax HD
-http://cs22cs.uk:8000/katka/katka/30079
-#EXTINF:-1,USA:Cinemax ActionMax
-http://cs22cs.uk:8000/katka/katka/25559
-#EXTINF:-1,USA:Cinemax East
-http://cs22cs.uk:8000/katka/katka/27942
-#EXTINF:-1,USA:MoreMax HD
-http://cs22cs.uk:8000/katka/katka/30061
-#EXTINF:-1,USA:HBO
-http://cs22cs.uk:8000/katka/katka/30065
-#EXTINF:-1,USA:HBO HD
-http://cs22cs.uk:8000/katka/katka/25566
-#EXTINF:-1,USA:HBO Signature
-http://cs22cs.uk:8000/katka/katka/30064
-#EXTINF:-1,USA:HBO Signature HD
-http://cs22cs.uk:8000/katka/katka/25567
-#EXTINF:-1,USA:HBO ZONE
-http://cs22cs.uk:8000/katka/katka/27439
-#EXTINF:-1,USA:HBO Zone HD
-http://cs22cs.uk:8000/katka/katka/29654
-#EXTINF:-1,USA:HBO Comedy
-http://cs22cs.uk:8000/katka/katka/27921
-#EXTINF:-1,USA:SYFY HD
-http://cs22cs.uk:8000/katka/katka/25571
-#EXTINF:-1,USA:Starz Cinema HD
-http://cs22cs.uk:8000/katka/katka/26628
-#EXTINF:-1,USA:Starz Encore West FHD
-http://cs22cs.uk:8000/katka/katka/30044
-#EXTINF:-1,USA:Starz HD
-http://cs22cs.uk:8000/katka/katka/30043
-#EXTINF:-1,USA:STARZ
-http://cs22cs.uk:8000/katka/katka/29693
-#EXTINF:-1,USA:STARZ EDGE
-http://cs22cs.uk:8000/katka/katka/25570
-#EXTINF:-1,USA:Starz Comedy
-http://cs22cs.uk:8000/katka/katka/27895
-#EXTINF:-1,USA:BET
-http://cs22cs.uk:8000/katka/katka/26920
-#EXTINF:-1,USA:Bravo
-http://cs22cs.uk:8000/katka/katka/26612
-#EXTINF:-1,USA:BRAVO HD
-http://cs22cs.uk:8000/katka/katka/27051
-#EXTINF:-1,USA:A&E HD
-http://cs22cs.uk:8000/katka/katka/25573
-#EXTINF:-1,USA:5 USA
-http://cs22cs.uk:8000/katka/katka/20916
-#EXTINF:-1,USA:5 USA +1
-http://cs22cs.uk:8000/katka/katka/29986
-#EXTINF:-1,USA:CNN News HD
-http://cs22cs.uk:8000/katka/katka/22840
-#EXTINF:-1,USA:CBS HD
-http://cs22cs.uk:8000/katka/katka/30081
-#EXTINF:-1,USA:CNBC News
-http://cs22cs.uk:8000/katka/katka/21389
-#EXTINF:-1,USA:Fox News HD
-http://cs22cs.uk:8000/katka/katka/21259
-#EXTINF:-1,USA:CNN HD
-http://cs22cs.uk:8000/katka/katka/30078
-#EXTINF:-1,USA:CNN
-http://cs22cs.uk:8000/katka/katka/25560
-#EXTINF:-1,USA:FOX Business Network
-http://cs22cs.uk:8000/katka/katka/30069
-#EXTINF:-1,USA:TBS HD
-http://cs22cs.uk:8000/katka/katka/25572
-#EXTINF:-1,USA:TNT HD
-http://cs22cs.uk:8000/katka/katka/30041
-#EXTINF:-1,USA:TNT HD US
-http://cs22cs.uk:8000/katka/katka/25565
-#EXTINF:-1,USA:Cinemax 5 Star Max
-http://cs22cs.uk:8000/katka/katka/26682
-#EXTINF:-1,USA:CW HD
-http://cs22cs.uk:8000/katka/katka/30076
-#EXTINF:-1,USA:CW
-http://cs22cs.uk:8000/katka/katka/27939
-#EXTINF:-1,USA:FXX
-http://cs22cs.uk:8000/katka/katka/26657
-#EXTINF:-1,USA:NBA HD
-http://cs22cs.uk:8000/katka/katka/30060
-#EXTINF:-1,USA:NBA TV HD
-http://cs22cs.uk:8000/katka/katka/25568
-#EXTINF:-1,USA:NBC
-http://cs22cs.uk:8000/katka/katka/30059
-#EXTINF:-1,USA:NBC HD
-http://cs22cs.uk:8000/katka/katka/27440
-#EXTINF:-1,USA:NBC Golf HD
-http://cs22cs.uk:8000/katka/katka/23310
-#EXTINF:-1,USA:NBC SPORT HD
-http://cs22cs.uk:8000/katka/katka/24646
-#EXTINF:-1,USA:NBC SPORT
-http://cs22cs.uk:8000/katka/katka/25569
-#EXTINF:-1,USA:NBC Sports Network HD
-http://cs22cs.uk:8000/katka/katka/30058
-#EXTINF:-1,USA:Olympic Channel FHD
-http://cs22cs.uk:8000/katka/katka/26544
-#EXTINF:-1,USA:TSN 1 HD-CA
-http://cs22cs.uk:8000/katka/katka/30040
-#EXTINF:-1,USA:TSN 2 HD-CA
-http://cs22cs.uk:8000/katka/katka/30039
-#EXTINF:-1,USA:TSN 3 HD-CA
-http://cs22cs.uk:8000/katka/katka/30038
-#EXTINF:-1,USA:TSN 4 HD-CA
-http://cs22cs.uk:8000/katka/katka/30037
-#EXTINF:-1,USA:TSN 5 HD-CA
-http://cs22cs.uk:8000/katka/katka/30036
-#EXTINF:-1,USA:TSN 1 HD*
-http://cs22cs.uk:8000/katka/katka/20844
-#EXTINF:-1,USA:TSN 2 HD
-http://cs22cs.uk:8000/katka/katka/20843
-#EXTINF:-1,USA:TSN 5 HD
-http://cs22cs.uk:8000/katka/katka/20840
-#EXTINF:-1,USA:SPORT: TSN 4
-http://cs22cs.uk:8000/katka/katka/22641
-#EXTINF:-1,USA:Bein Sports  HD
-http://cs22cs.uk:8000/katka/katka/29688
-#EXTINF:-1,USA:G-Bein Sport 3 - UAE
-http://cs22cs.uk:8000/katka/katka/22788
-#EXTINF:-1,USA:CBS Sports Network HD
-http://cs22cs.uk:8000/katka/katka/30080
-#EXTINF:-1,USA:ESPN News HD
-http://cs22cs.uk:8000/katka/katka/30072
-#EXTINF:-1,USA:ESPN U HD
-http://cs22cs.uk:8000/katka/katka/30071
-#EXTINF:-1,USA:ESPN USA HD
-http://cs22cs.uk:8000/katka/katka/30070
-#EXTINF:-1,USA:Fox Sports 1 HD
-http://cs22cs.uk:8000/katka/katka/30067
-#EXTINF:-1,USA:Golf HD
-http://cs22cs.uk:8000/katka/katka/30066
-#EXTINF:-1,USA:Sportsnet World
-http://cs22cs.uk:8000/katka/katka/22830
-#EXTINF:-1,USA:PAC-12 Bay Area HD
-http://cs22cs.uk:8000/katka/katka/30053
-#EXTINF:-1,USA:PAC-12 Oregon HD
-http://cs22cs.uk:8000/katka/katka/30051
-#EXTINF:-1,USA:PAC Arizona
-http://cs22cs.uk:8000/katka/katka/27907
-#EXTINF:-1,USA:Sports Net One HD
-http://cs22cs.uk:8000/katka/katka/30047
-#EXTINF:-1,USA:Sports Net Ontario HD
-http://cs22cs.uk:8000/katka/katka/30046
-#EXTINF:-1,USA:Sports Net World HD
-http://cs22cs.uk:8000/katka/katka/30045
-#EXTINF:-1,USA:WWE Network
-http://cs22cs.uk:8000/katka/katka/22820
-#EXTINF:-1,USA:WWE HD
-http://cs22cs.uk:8000/katka/katka/25574
-#EXTINF:-1,USA:Tennis Channel HD
-http://cs22cs.uk:8000/katka/katka/30042
-#EXTINF:-1,USA:UFC Fight Pass
-http://cs22cs.uk:8000/katka/katka/29617
-#EXTINF:-1,USA:Food Network HD
-http://cs22cs.uk:8000/katka/katka/29666
-#EXTINF:-1,USA:Fox HD
-http://cs22cs.uk:8000/katka/katka/30068
-#EXTINF:-1,USA:FOX 43
-http://cs22cs.uk:8000/katka/katka/27436
-#EXTINF:-1,USA:FOX SPORTS 1HD
-http://cs22cs.uk:8000/katka/katka/25563
-#EXTINF:-1,USA:FOX SPORTS 2 (HD)
-http://cs22cs.uk:8000/katka/katka/29661
-#EXTINF:-1,USA:Fox Sports 2 HD
-http://cs22cs.uk:8000/katka/katka/20996
-#EXTINF:-1,USA:BEIN SPORT USA
-http://cs22cs.uk:8000/katka/katka/27432
-#EXTINF:-1,USA:CNBC
-http://cs22cs.uk:8000/katka/katka/27433
-#EXTINF:-1,USA:ESPN HD
-http://cs22cs.uk:8000/katka/katka/27482
-#EXTINF:-1,USA:ESPN Deportes
-http://cs22cs.uk:8000/katka/katka/27930
-#EXTINF:-1,USA:ESPN News
-http://cs22cs.uk:8000/katka/katka/27443
-#EXTINF:-1,USA:ESPN 1 HD
-http://cs22cs.uk:8000/katka/katka/27434
-#EXTINF:-1,USA:ESPN 2 HD
-http://cs22cs.uk:8000/katka/katka/27483
-#EXTINF:-1,USA:Fight Network
-http://cs22cs.uk:8000/katka/katka/27435
-#EXTINF:-1,USA:NFL Network
-http://cs22cs.uk:8000/katka/katka/27466
-#EXTINF:-1,USA: NFL HD
-http://cs22cs.uk:8000/katka/katka/27429
-#EXTINF:-1,USA:NFL
-http://cs22cs.uk:8000/katka/katka/27910
-#EXTINF:-1,USA:NFL NOW
-http://cs22cs.uk:8000/katka/katka/29614
-#EXTINF:-1,USA:MLB Network
-http://cs22cs.uk:8000/katka/katka/27471
-#EXTINF:-1,USA:Tennis Channel
-http://cs22cs.uk:8000/katka/katka/27452
-#EXTINF:-1,USA:WWE FHD
-http://cs22cs.uk:8000/katka/katka/27446
-#EXTINF:-1,USA:MSNBC
-http://cs22cs.uk:8000/katka/katka/27915
-#EXTINF:-1,USA:NHL Network
-http://cs22cs.uk:8000/katka/katka/27909
-#EXTINF:-1,USA:Sports Net 360
-http://cs22cs.uk:8000/katka/katka/27897
-#EXTINF:-1,CA:Sportsnet One
-http://cs22cs.uk:8000/katka/katka/27896
-#EXTINF:-1,USA:Willow Cricket
-http://cs22cs.uk:8000/katka/katka/27887
-#EXTINF:-1,USA:TLC HD
-http://cs22cs.uk:8000/katka/katka/26625
-#EXTINF:-1,USA:USA NETWORK
-http://cs22cs.uk:8000/katka/katka/26533
-#EXTINF:-1,USA:ABC News
-http://cs22cs.uk:8000/katka/katka/27430
-#EXTINF:-1,USA:Comedy Central
-http://cs22cs.uk:8000/katka/katka/27487
-#EXTINF:-1,USA:Food Network
-http://cs22cs.uk:8000/katka/katka/27481
-#EXTINF:-1,USA:HGTV
-http://cs22cs.uk:8000/katka/katka/27474
-#EXTINF:-1,USA:Disney HD
-http://cs22cs.uk:8000/katka/katka/30073
-#EXTINF:-1,USA:SHOWTIME HD
-http://cs22cs.uk:8000/katka/katka/27428
-#EXTINF:-1,USA:Viceland
-http://cs22cs.uk:8000/katka/katka/27447
-#EXTINF:-1,USA:Bloomberg
-http://cs22cs.uk:8000/katka/katka/27949
-#EXTINF:-1,USA:Animal Planet
-http://cs22cs.uk:8000/katka/katka/26676
-#EXTINF:-1,USA:Destination America
-http://cs22cs.uk:8000/katka/katka/29674
-#EXTINF:-1,USA:Crime Investigation Discovery HD
-http://cs22cs.uk:8000/katka/katka/30077
-#EXTINF:-1,USA:Discovery HD
-http://cs22cs.uk:8000/katka/katka/30075
-#EXTINF:-1,USA:Discovery Science HD
-http://cs22cs.uk:8000/katka/katka/30074
-#EXTINF:-1,USA:Discovery Velocity
-http://cs22cs.uk:8000/katka/katka/27485
-#EXTINF:-1,USA:Discovery Channel USA
-http://cs22cs.uk:8000/katka/katka/26606
-#EXTINF:-1,USA:National Geographic
-http://cs22cs.uk:8000/katka/katka/26647
-#EXTINF:-1,USA:National Geographic FHD
-http://cs22cs.uk:8000/katka/katka/27468
-#EXTINF:-1,USA:Science HD
-http://cs22cs.uk:8000/katka/katka/26541
-#EXTINF:-1,USA:5 Star Max
-http://cs22cs.uk:8000/katka/katka/30085
-#EXTINF:-1,USA:BET HD
-http://cs22cs.uk:8000/katka/katka/30083
-#EXTINF:-1,USA:Bravo FHD
-http://cs22cs.uk:8000/katka/katka/30082
-#EXTINF:-1,USA:History
-http://cs22cs.uk:8000/katka/katka/30063
-#EXTINF:-1,USA:Investigation Discovery
-http://cs22cs.uk:8000/katka/katka/27918
-#EXTINF:-1,USA:SHOWTIME SHOWCASE HD
-http://cs22cs.uk:8000/katka/katka/29625
-#EXTINF:-1,USA:Cartoon Network
-http://cs22cs.uk:8000/katka/katka/27946
-#EXTINF:-1,USA:COMEDY CENTRAL HD
-http://cs22cs.uk:8000/katka/katka/29678
-#EXTINF:-1,USA:E!
-http://cs22cs.uk:8000/katka/katka/29670
-#EXTINF:-1,USA:LIFETIME MOVIES
-http://cs22cs.uk:8000/katka/katka/29648
-#EXTINF:-1,USA:DIY Network
-http://cs22cs.uk:8000/katka/katka/27935
-#EXTINF:-1,USA:Paramount Network HD
-http://cs22cs.uk:8000/katka/katka/30049
-#EXTINF:-1,USA:FX
-http://cs22cs.uk:8000/katka/katka/27922
-#EXTINF:-1,USA:Lifetime
-http://cs22cs.uk:8000/katka/katka/27917
-#EXTINF:-1,USA:TRAVEL CHANNEL
-http://cs22cs.uk:8000/katka/katka/29619
-#EXTINF:-1,USA:Own
-http://cs22cs.uk:8000/katka/katka/27908
-#EXTINF:-1,USA:REDZONE
-http://cs22cs.uk:8000/katka/katka/29613
-#EXTINF:-1,USA:SPIKE WEST
-http://cs22cs.uk:8000/katka/katka/29699
-#EXTINF:-1,CA:Sportsnet EAST HD
-http://cs22cs.uk:8000/katka/katka/26850
-#EXTINF:-1,CA:Sportsnet 360
-http://cs22cs.uk:8000/katka/katka/29549
-#EXTINF:-1,CA:SPORTSNET ONTARIO
-http://cs22cs.uk:8000/katka/katka/26851
- 
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/651
+#EXTINF:-1,CBS Reality
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/652
+#EXTINF:-1,Lov i Ribolov
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/653
+#EXTINF:-1,Docu Box
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/708
+#EXTINF:-1,Discovery CI
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/790
+#EXTINF:-1,Discovery ID Xtra
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/791
+#EXTINF:-1,Food Network HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2464
+#EXTINF:-1,Travel
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2467
+#EXTINF:-1,Da Vinci Learning
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/3055
+#EXTINF:-1,Doku TV HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6046
+#EXTINF:-1,Planet Earth
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6098
+#EXTINF:-1,Viasat Explore
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6099
+#EXTINF:-1,Viasat History
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6100
+#EXTINF:-1,Discovery SCi HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/25478
+#EXTINF:-1,24 Kitchen HD
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/37698
+#EXTINF:-1,HGTV
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/46557
+#EXTINF:-1,--------------- SKY UK ---------------
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2498
+#EXTINF:-1,BBC 1 HD (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2485
+#EXTINF:-1,BBC 2 HD (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2486
+#EXTINF:-1,BBC 3 HD (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2487
+#EXTINF:-1,BBC Entertainment (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/7224
+#EXTINF:-1,ITV 1 HD (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2488
+#EXTINF:-1,ITV 2 HD (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2489
+#EXTINF:-1,ITV 3 HD (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2490
+#EXTINF:-1,ITV 4 HD (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2491
+#EXTINF:-1,ITV BE (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2492
+#EXTINF:-1,Rte One (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2493
+#EXTINF:-1,Rte Two (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2494
+#EXTINF:-1,Channel 4 (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2513
+#EXTINF:-1,Channel 5 (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2514
+#EXTINF:-1,Fox News USA (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6298
+#EXTINF:-1,CNN (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/21314
+#EXTINF:-1,Sky 1 (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2496
+#EXTINF:-1,Sky 2 (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2495
+#EXTINF:-1,Sky Showcase (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2503
+#EXTINF:-1,Sky Arts (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2499
+#EXTINF:-1,Sky Living (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2561
+#EXTINF:-1,Sky Family (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2502
+#EXTINF:-1,Sky Premiere (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2504
+#EXTINF:-1,Sky Action (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2543
+#EXTINF:-1,Sky Crime&Thriller (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2542
+#EXTINF:-1,Sky Greats (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2541
+#EXTINF:-1,Sky Drama (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2507
+#EXTINF:-1,Sky Comedy (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2506
+#EXTINF:-1,Fox (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2518
+#EXTINF:-1,Comedy Central (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2520
+#EXTINF:-1,CBS Reality (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2510
+#EXTINF:-1,CBS Drama (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2511
+#EXTINF:-1,True Movies 1 (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2515
+#EXTINF:-1,TCM HD (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/3787
+#EXTINF:-1,Sky Sp F1 (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2559
+#EXTINF:-1,SkySp Main Event HD (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2526
+#EXTINF:-1,Sky Sp Cricket (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2527
+#EXTINF:-1,SkySp Action (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2528
+#EXTINF:-1,SkySp Arena (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2525
+#EXTINF:-1,SkySp PL (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2530
+#EXTINF:-1,SkySp MIX (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2558
+#EXTINF:-1,SkySp Golf (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2529
+#EXTINF:-1,SkySp News HD (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2787
+#EXTINF:-1,BT Sports 1 (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2521
+#EXTINF:-1,BT Sports 2 (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2522
+#EXTINF:-1,BT Sports 3 (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2523
+#EXTINF:-1,BT Sports ESPN (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2524
+#EXTINF:-1,Eurosport (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2540
+#EXTINF:-1,Motors (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2545
+#EXTINF:-1,BOX Nation (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2557
+#EXTINF:-1,Chelsea FC (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2546
+#EXTINF:-1,National Geographic (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2531
+#EXTINF:-1,Nat Geo Wild (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2532
+#EXTINF:-1,Discovery (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2533
+#EXTINF:-1,Discovery Science (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2535
+#EXTINF:-1,Discovery Turbo (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2536
+#EXTINF:-1,Investigation Discovery (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2564
+#EXTINF:-1,Discovery History (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2534
+#EXTINF:-1,Cartoon Network (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2569
+#EXTINF:-1,Nicklodeon (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2554
+#EXTINF:-1,Nick JR (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2555
+#EXTINF:-1,VH1 (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2550
+#EXTINF:-1,VH 1 CLASSIC (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/634
+#EXTINF:-1,MTV Music
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/35713
+#EXTINF:-1,MTV Base (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2553
+#EXTINF:-1,MTV Dance (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2552
+#EXTINF:-1,MTV 90s (UK)
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2551
+#EXTINF:-1,XXX* ADULT 1
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/182
+#EXTINF:-1,XXX* ADULT 2
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/183
+#EXTINF:-1,XXX* ADULT 3
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/184
+#EXTINF:-1,XXX* ADULT 4
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/185
+#EXTINF:-1,XXX* ADULT 5
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/186
+#EXTINF:-1,XXX* ADULT 6
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/187
+#EXTINF:-1,XXX* ADULT 7
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/188
+#EXTINF:-1,XXX* ADULT 8
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/189
+#EXTINF:-1,XXX* ADULT 9
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/190
+#EXTINF:-1,XXX* ADULT 10
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/212
+#EXTINF:-1,XXX* ADULT 11
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/213
+#EXTINF:-1,XXX* ADULT 12
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/219
+#EXTINF:-1,XXX* ADULT 13
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/220
+#EXTINF:-1,XXX* ADULT 14
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/221
+#EXTINF:-1,XXX* ADULT 15
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/222
+#EXTINF:-1,XXX* ADULT 16
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/519
+#EXTINF:-1,XXX* ADULT 17
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/520
+#EXTINF:-1,XXX* ADULT 18
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/521
+#EXTINF:-1,XXX* ADULT 19
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/581
+#EXTINF:-1,XXX* ADULT 20
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/597
+#EXTINF:-1,XXX* ADULT 21
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/598
+#EXTINF:-1,XXX* ADULT 22
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/599
+#EXTINF:-1,XXX* ADULT 23
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/600
+#EXTINF:-1,XXX* ADULT 24
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/601
+#EXTINF:-1,XXX* ADULT 25
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/602
+#EXTINF:-1,XXX* ADULT 26
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6104
+#EXTINF:-1,XXX* ADULT 27
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6105
+#EXTINF:-1,XXX* ADULT 28
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6106
+#EXTINF:-1,XXX* ADULT 29
+http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6107
+#EXTINF:-1,XXX* ADULT 30
+
