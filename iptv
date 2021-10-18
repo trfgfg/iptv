@@ -1,5 +1,4 @@
 #EXTM3U
-http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2916
 #EXTINF:-1,KLASIK TV
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/646
  #EXTINF:-1,HBO HD
@@ -68,8 +67,6 @@ http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/648
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/162
 #EXTINF:-1,AXN Spin
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/584
-#EXTINF:-1,------------ MAX SELECT -------------
-http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6237
 #EXTINF:-1,Max Select 01 HD
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6232
 #EXTINF:-1,Max Select 02 HD
@@ -118,7 +115,6 @@ http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6211
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6210
 #EXTINF:-1,Max Select 24 Ex-Yu
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6209
-#EXTINF:-1,------------ DOKUMENTARCI ------------
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2915
 #EXTINF:-1,Animal Planet
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/344
@@ -172,7 +168,6 @@ http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/25478
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/37698
 #EXTINF:-1,HGTV
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/46557
-#EXTINF:-1,--------------- SKY UK ---------------
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2498
 #EXTINF:-1,BBC 1 HD (UK)
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/2485
@@ -365,4 +360,3 @@ http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6106
 #EXTINF:-1,XXX* ADULT 29
 http://placa.work:5115/Gv45MiniXX12DF/TFX3IBsBJG/6107
 #EXTINF:-1,XXX* ADULT 30
-
